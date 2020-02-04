@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Note.h
+
+/home/kernel7/Audio/src/Main.cpp
+iostream
+-
+Note.h
+/home/kernel7/Audio/src/Note.h
+
